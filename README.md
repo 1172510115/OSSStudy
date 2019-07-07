@@ -1,3 +1,3 @@
 OSSStudy
 ==
-这个仓库用来配合学习开源软件开发课程的学习。
+This repositoy is created for the OSS class
