@@ -1,3 +1,6 @@
-如何贡献代码
+HOW TO CONTRIBUTE
 ===
-方式很简单，`fork`代码到您的仓库，修改后提交，向我发起`pull resquest`申请，在审查后你的代码将被<br>`merge`到仓库中.
+1. `fork` code to your repository
+2. make changes and commit.
+3. ask me for a `pull resquest`
+4. afer code review your changes maybe `merge` to repository.
