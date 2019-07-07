@@ -1,3 +1,3 @@
-行为准则
+CODE_OF_CONDUCT
 ==
-遵守相关法律、尊重他人、不搞破坏
+the code should obay the relevant laws and the professional ethics, any persinal attacks is forbidden.
